@@ -1,4 +1,4 @@
-# Node.js Core Technical Committee (CTC)
+# Node.js Core Technical Committee (CTC) & Collaborators
 
 A repository for dealing with meta technical matters related to the Node.js project. For non-technical organizational matters please see the [TSC](https://github.com/nodejs/CTC) repository.
 
