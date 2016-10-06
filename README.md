@@ -26,3 +26,16 @@ Meta technical matters to be discussed here include, but are not limited to:
 * If you wish to **file a bug report about Node.js or have a fix prepared**, please file it at https://github.com/nodejs/node
 
 * **Ideas and proposals from the public for the future of Node.js** can be discussed in [roadmap](https://github.com/nodejs/roadmap/) or [NG](https://github.com/nodejs/ng).
+
+------------------------------
+
+## Meeting Schedule
+
+|  UTC-time | San Francisco  | New York | Amsterdam | Moscow | Chennai | Tokyo | Sydney |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Wednesday, October 12, 2016 at 16:00:00|  Wed 9:00 AM *|  Wed 12:00 Noon *  |Wed 6:00 PM *| Wed 7:00 PM |Wed 9:30 PM  |Thu 1:00 AM| Thu 3:00 AM *|
+| Wednesday, October 19, 2016 at 20:00:00|  Wed 1:00 PM *|  Wed 4:00 PM *|  Wed 10:00 PM *| Wed 11:00 PM  |Thu 1:30 AM  |Thu 5:00 AM  |Thu 7:00 AM *|
+| Wednesday, October 26, 2016 at 16:00:00 | Wed 9:00 AM *|  Wed 12:00 Noon *| Wed 6:00 PM * |Wed 7:00 PM  |Wed 9:30 PM| Thu 1:00 AM|  Thu 3:00 AM * |
+| Wednesday, November 2, 2016 at 20:00:00 | Wed 1:00 PM * | Wed 4:00 PM * | Wed 9:00 PM|  Wed 11:00 PM| Thu 1:30 AM |Thu 5:00 AM  |Thu 7:00 AM * | 
+
+Asterisk (`*`) in the above table means the time is daylight savings time in that location. That's why the time changes for some places even though the UTC time remains constant.
