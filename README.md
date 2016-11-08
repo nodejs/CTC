@@ -31,11 +31,18 @@ Meta technical matters to be discussed here include, but are not limited to:
 
 ## Meeting Schedule
 
+Tentative schedule; still needs CTC approval.
+
 |  UTC-time | San Francisco  | New York | Amsterdam | Moscow | Chennai | Tokyo | Sydney |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Wednesday, October 12, 2016 at 16:00:00|  Wed 9:00 AM *|  Wed 12:00 Noon *  |Wed 6:00 PM *| Wed 7:00 PM |Wed 9:30 PM  |Thu 1:00 AM| Thu 3:00 AM *|
-| Wednesday, October 19, 2016 at 20:00:00|  Wed 1:00 PM *|  Wed 4:00 PM *|  Wed 10:00 PM *| Wed 11:00 PM  |Thu 1:30 AM  |Thu 5:00 AM  |Thu 7:00 AM *|
-| Wednesday, October 26, 2016 at 16:00:00 | Wed 9:00 AM *|  Wed 12:00 Noon *| Wed 6:00 PM * |Wed 7:00 PM  |Wed 9:30 PM| Thu 1:00 AM|  Thu 3:00 AM * |
-| Wednesday, November 2, 2016 at 20:00:00 | Wed 1:00 PM * | Wed 4:00 PM * | Wed 9:00 PM|  Wed 11:00 PM| Thu 1:30 AM |Thu 5:00 AM  |Thu 7:00 AM * | 
+| Wednesday, November 9, 2016 at 16:00:00 |	Wed 8:00 AM|	Wed 11:00 AM|	Wed 5:00 PM	|Wed 7:00 PM	|Wed 9:30 PM	|Thu 1:00 AM	|Thu 3:00 AM *|
+|Wednesday, November 16, 2016 at 20:00:00|	Wed 12:00 Noon|	Wed 3:00 PM	|Wed 9:00 PM	|Wed 11:00 PM|	Thu 1:30 AM|	Thu 5:00 AM|	Thu 7:00 AM *|
+|Wednesday, November 23, 2016 at 16:00:00	|Wed 8:00 AM	|Wed 11:00 AM|	Wed 5:00 PM|	Wed 7:00 PM	|Wed 9:30 PM	|Thu 1:00 AM	|Thu 3:00 AM *|
+|Wednesday, November 30, 2016 at 20:00:00|	Wed 12:00 Noon|	Wed 3:00 PM	|Wed 9:00 PM	|Wed 11:00 PM|	Thu 1:30 AM|	Thu 5:00 AM	|Thu 7:00 AM *|
+|Wednesday, December 7, 2016 at 16:00:00	|Wed 8:00 AM	|Wed 11:00 AM|	Wed 5:00 PM	|Wed 7:00 PM	|Wed 9:30 PM|	Thu 1:00 AM	|Thu 3:00 AM *|
+|Wednesday, December 14, 2016 at 20:00:00	|Wed 12:00 Noon|	Wed 3:00 PM	|Wed 9:00 PM	|Wed 11:00 PM|	Thu 1:30 AM|	Thu 5:00 AM	|Thu 7:00 AM *|
+|Wednesday, December 21, 2016 at 16:00:00|	Wed 8:00 AM	|Wed 11:00 AM	|Wed 5:00 PM	|Wed 7:00 PM|	Wed 9:30 PM	|Thu 1:00 AM	|Thu 3:00 AM *|
+|Wednesday, December 28, 2016 at 20:00:00|	Wed 12:00 Noon|	Wed 3:00 PM|	Wed 9:00 PM	|Wed 11:00 PM|	Thu 1:30 AM	|Thu 5:00 AM	|Thu 7:00 AM *|
+|Wednesday, January 4, 2017 at 16:00:00|	Wed 8:00 AM|	Wed 11:00 AM	|Wed 5:00 PM|	Wed 7:00 PM	|Wed 9:30 PM	|Thu 1:00 AM	|Thu 3:00 AM *|
 
 Asterisk (`*`) in the above table denotes daylight savings time is in effect in that location.
