@@ -31,8 +31,6 @@ Meta technical matters to be discussed here include, but are not limited to:
 
 ## Meeting Schedule
 
-Tentative schedule; still needs CTC approval.
-
 |  UTC-time | San Francisco  | New York | Amsterdam | Moscow | Chennai | Tokyo | Sydney |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Wednesday, November 9, 2016 at 16:00:00 |	Wed 8:00 AM|	Wed 11:00 AM|	Wed 5:00 PM	|Wed 7:00 PM	|Wed 9:30 PM	|Thu 1:00 AM	|Thu 3:00 AM *|
