@@ -32,7 +32,7 @@ Meta technical matters to be discussed here include, but are not limited to:
 ## Meeting Schedule
 
 |  UTC | San Francisco  | New York | Amsterdam | Moscow | Chennai | Tokyo | Sydney |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| ---- | -------------- | -------- | --------- | ------ | ------- | ----- | ------ |
 |Wednesday, January 4, 2017 at 16:00:00|	Wed 8:00 AM|	Wed 11:00 AM	|Wed 5:00 PM|	Wed 7:00 PM	|Wed 9:30 PM	|Thu 1:00 AM	|Thu 3:00 AM *|
 |Wednesday, January 11, 2017 at 20:00:00 | Wed 12:00 noon | Wed 3:00 pm |Wed 9:00 pm |Wed 11:00 pm|  Thu 1:30 am |Thu 5:00 am |Thu 7:00 am *|
 |Wednesday, January 18, 2017 at 05:00:00 | Tue 9:00 pm |Wed 12:00 midnight  |Wed 6:00 am |Wed 8:00 am| Wed 10:30 am | Wed 2:00 pm |Wed 4:00 pm *|
