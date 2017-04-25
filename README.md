@@ -6,7 +6,7 @@ A repository for dealing with meta technical matters related to the Node.js proj
 
 **This repository is _primarily_ for the use of the Node.js core project Collaborators group and the CTC**. If you are not part of the Collaborator group, please confer with a member of the CTC (listed on the Node.js [README](https://github.com/nodejs/node#ctc-core-technical-committee)) before opening a new discussion here.
 
-***Because this is a space for Collaborators and the TSC to discuss internal concerns, issues are likely to be locked and limited to these groups as soon as they become too noisy. There are better forums for public input (see below).***
+***Because this is a space for Collaborators and the CTC to discuss internal concerns, issues are likely to be locked and limited to these groups as soon as they become too noisy. There are better forums for public input (see below).***
 
 ------------------------------
 
