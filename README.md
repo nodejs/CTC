@@ -33,12 +33,12 @@ Meta technical matters to be discussed here include, but are not limited to:
 
 |  UTC | San Francisco  | New York | Amsterdam | Moscow | Chennai | Tokyo | Sydney |
 | ---- | -------------- | -------- | --------- | ------ | ------- | ----- | ------ |
-|Wednesday, March 22, 2017 at 05:00:00  |Tue 10:00 pm * | Wed 1:00 am * |Wed 6:00 am |Wed 8:00 am |Wed 10:30 am | Wed 2:00 pm |Wed 4:00 pm *|
-|Wednesday, March 29, 2017 at 16:00:00  |Wed 9:00 am * |Wed 12:00 noon * | Wed 6:00 pm * |Wed 7:00 pm |Wed 9:30 pm |Thu 1:00 am |Thu 3:00 am *|
-|Wednesday, April 5, 2017 at 20:00:00 |Wed 1:00 pm *| Wed 4:00 pm *| Wed 10:00 pm * | Wed 11:00 pm | Thu 1:30 am |Thu 5:00 am |Thu 6:00 am|
-|Wednesday, April 12, 2017 at 05:00:00	|Tue 10:00 pm *	|Wed 1:00 am *	|Wed 7:00 am *	|Wed 8:00 am	|Wed 10:30 am	|Wed 2:00 pm	|Wed 3:00 pm|
-|Wednesday, April 19, 2017 at 16:00:00|	Wed 9:00 am *	|Wed 12:00 noon *|	Wed 6:00 pm *	|Wed 7:00 pm	|Wed 9:30 pm	|Thu 1:00 am	|Thu 2:00 am|
 |Wednesday, April 26, 2017 at 20:00:00	|Wed 1:00 pm *	|Wed 4:00 pm *	|Wed 10:00 pm *	|Wed 11:00 pm	|Thu 1:30 am	|Thu 5:00 am	|Thu 6:00 am|
 |Wednesday, May 3, 2017 at 05:00:00|	Tue 10:00 pm *	|Wed 1:00 am *	|Wed 7:00 am *|	Wed 8:00 am	|Wed 10:30 am|	Wed 2:00 pm	|Wed 3:00 pm|
+|Wednesday, May 10, 2017 at 16:00:00 |Wed 9:00 am * |Wed 12:00 noon *  |Wed 6:00 pm * |Wed 7:00 pm |Wed 9:30 pm |Thu 1:00 am |Thu 2:00 am|
+|Wednesday, May 17, 2017 at 20:00:00 |Wed 1:00 pm * |Wed 4:00 pm * |Wed 10:00 pm *  |Wed 11:00 pm  |Thu 1:30 am |Thu 5:00 am |Thu 6:00 am|
+|Wednesday, May 24, 2017 at 11:00:00  |Wed 4:00 am * |Wed 7:00 am * |Wed 1:00 pm * |Wed 2:00 pm |Wed 4:30 pm| Wed 8:00 pm |Wed 9:00 pm|
+|Wednesday, May 31, 2017 at 16:00:00 | Wed 9:00 am * |Wed 12:00 noon *  |Wed 6:00 pm * |Wed 7:00 pm| Wed 9:30 pm| Thu 1:00 am |Thu 2:00 am|
+|Wednesday, June 7, 2017 at 20:00:00  |Wed 1:00 pm * |Wed 4:00 pm * |Wed 10:00 pm *  |Wed 11:00 pm | Thu 1:30 am |Thu 5:00 am |Thu 6:00 am|
 
 Asterisk (`*`) in the above table denotes daylight savings time is in effect in that location.
