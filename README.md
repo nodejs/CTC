@@ -12,7 +12,6 @@ A repository for dealing with meta technical matters related to the Node.js proj
 
 Meta technical matters to be discussed here include, but are not limited to:
 
-* Future-facing topics that are likely to feed into a [roadmap](https://github.com/nodejs/roadmap/) for Node.js at some point, without being so far forward that they belong in [Node.js NG](https://github.com/nodejs/ng)
 * Issues that Node.js needs to begin considering before there is a something to actually deal with, e.g. proposals being prepared at TC39 that may impact Node.js
 * Large topics that don't yet have a concrete proposal ready to file as an [EP](https://github.com/nodejs/node-eps) and need further refinement via discussion
 * Technical organization concerns that are difficult to discuss in [nodejs/node](https://github.com/nodejs/node), e.g. the relationship between the /docs/ directory and the Documentation Working Group or Streams code in core and the Streams Working Group.
@@ -25,7 +24,7 @@ Meta technical matters to be discussed here include, but are not limited to:
 
 * If you wish to **file a bug report about Node.js or have a fix prepared**, please file it at https://github.com/nodejs/node
 
-* **Ideas and proposals from the public for the future of Node.js** can be discussed in [roadmap](https://github.com/nodejs/roadmap/) or [NG](https://github.com/nodejs/ng).
+* **Ideas and proposals from the public for the future of Node.js** can be discussed in [NG](https://github.com/nodejs/ng).
 
 ------------------------------
 
