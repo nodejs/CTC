@@ -31,19 +31,20 @@ Top Level Working Group](https://github.com/nodejs/TSC/blob/master/WORKING_GROUP
 
 ## Current Working Groups
 
-* [Website](#website)
-* [Streams](#streams)
-* [Build](#build)
-* [Diagnostics](#diagnostics)
-* [i18n](#i18n)
-* [Evangelism](#evangelism)
-* [Docker](#docker)
 * [Addon API](#addon-api)
 * [Benchmarking](#benchmarking)
-* [Post-mortem](#post-mortem)
-* [Intl](#intl)
+* [Build](#build)
+* [Diagnostics](#diagnostics)
+* [Docker](#docker)
 * [Documentation](#documentation)
+* [Evangelism](#evangelism)
+* [i18n](#i18n)
+* [Intl](#intl)
+* [Long Term Support](#long-term-support)
+* [Post-mortem](#post-mortem)
+* [Streams](#streams)
 * [Testing](#testing)
+* [Website](#website)
 
 
 ### [Website](https://github.com/nodejs/nodejs.org)
@@ -278,3 +279,20 @@ Responsibilities include:
 * Documenting guidelines around tests.
 * Working with the Build Working Group to improve continuous integration.
 * Improving tooling for testing.
+
+### [Long Term Support](https://github.com/nodejs/lts)
+
+The Node.js Long Term Support Working Group's purpose and responsibilities:
+
+* Development and Administration of all Long Term Support (LTS) policies.
+* Management of LTS Release schedule in coordination with the release team.
+* Management of LTS Branches including determination of which commits land
+  and which do not.
+* Determining when a Stable branch is ready to migrate into LTS status.
+* Authoring and editing LTS related documentation within the Node.js project.
+* Working with the ecosystem to ensure appropriate stability of LTS releases
+  (smoke-testing); ownership and responsibility for the
+  [CITGM](https://github.com/nodejs/citgm) tool.
+* Advising the CTC and TSC on all LTS related issues and discussions
+* Messaging about the future of LTS to give the community advance notice of
+  changes.
