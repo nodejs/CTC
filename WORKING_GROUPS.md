@@ -186,7 +186,7 @@ Responsibilities include:
 * Publishing regular update summaries and other promotional
   content.
 
-### [Docker](https://github.com/nodejs/docker-iojs)
+### [Docker](https://github.com/nodejs/docker-node)
 
 The Docker Working Group's purpose is to build, maintain, and improve official
 Docker images for the Node.js project.
