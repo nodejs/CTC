@@ -32,11 +32,7 @@ Meta technical matters to be discussed here include, but are not limited to:
 
 |  UTC | San Francisco  | New York | Amsterdam | Moscow | Chennai | Shanghai | Tokyo | Sydney |
 | ---- | -------------- | -------- | --------- | ------ | ------- | -------- | ----- | ------ |
-|Wed, May 31, 2017 at 16:00:00 | Wed 9:00 am * | Wed 12:00 noon * | Wed 6:00 pm * | Wed 7:00 pm | Wed 9:30 pm | Thu midnight | Thu 1:00 am | Thu 2:00 am|
-|Wed, June 7, 2017 at 20:00:00 | Wed 1:00 pm * | Wed 4:00 pm * | Wed 10:00 pm * | Wed 11:00 pm | Thu 1:30 am | Thu 4:00 am | Thu 5:00 am | Thu 6:00 am|
-|Wed, June 14, 2017 at 11:00:00 | Wed 4:00 am * | Wed 7:00 am * | Wed 1:00 pm * | Wed 2:00 pm | Wed 4:30 pm | Wed 7:00 pm | Wed 8:00 pm | Wed 9:00 pm|
-|Wed, June 21, 2017 at 16:00:00 | Wed 9:00 am * | Wed 12:00 noon * | Wed 6:00 pm * | Wed 7:00 pm | Wed 9:30 pm | Thu midnight | Thu 1:00 am |Thu 2:00 am|
-|Wed, June 28, 2017 at 20:00:00 | Wed 1:00 pm * | Wed 4:00 pm * | Wed 10:00 pm * | Wed 11:00 pm | Thu 1:30 am | Thu 4:00 am | Thu 5:00 am | Thu 6:00 am|
-|Wed, July 5, 2017 at 11:00:00 | Wed 4:00 am * | Wed 7:00 am * | Wed 1:00 pm * | Wed 2:00 pm | Wed 4:30 pm | Wed 7:00 pm | Wed 8:00 pm | Wed 9:00 pm|
-
+|Wed July 5, 2017 at 11:00:00 | Wed 4:00 am * | Wed 7:00 am * | Wed 1:00 pm * | Wed 2:00 pm | Wed 4:30 pm | Wed 7:00 pm | Wed 8:00 pm | Wed 9:00 pm|
+|Wed July 19, 2017 at 16:00:00 | Wed 9:00 am * | Wed 12:00 noon * | Wed 6:00 pm * | Wed 7:00 pm | Wed 9:30 pm | Thu 12:00 midnight | Thu 1:00 am | Thu 2:00 am |
+|Wed August 2, 2017 at 20:00:00 | Wed 1:00 pm * | Wed 4:00 pm * | Wed 10:00 pm * | Wed 11:00 pm  | Thu 1:30 am | Thu 4:00 am | Thu 5:00 am | Thu 6:00 am |
 Asterisk (`*`) in the above table denotes daylight savings time is in effect in that location.
