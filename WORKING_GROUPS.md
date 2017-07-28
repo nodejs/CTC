@@ -36,7 +36,6 @@ Top Level Working Group](https://github.com/nodejs/TSC/blob/master/WORKING_GROUP
 * [Build](#build)
 * [Diagnostics](#diagnostics)
 * [i18n](#i18n)
-* [Evangelism](#evangelism)
 * [Docker](#docker)
 * [Addon API](#addon-api)
 * [Benchmarking](#benchmarking)
