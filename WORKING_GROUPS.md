@@ -41,6 +41,7 @@ Top Level Working Group](https://github.com/nodejs/TSC/blob/master/WORKING_GROUP
 * [Benchmarking](#benchmarking)
 * [Post-mortem](#post-mortem)
 * [Intl](#intl)
+* [Release](#release)
 
 
 ### [Website](https://github.com/nodejs/nodejs.org)
@@ -248,3 +249,18 @@ Responsibilities include:
   to be generated when needed.
 * Defining and adding common structures to the dumps generated
   in order to support tools that want to introspect those dumps.
+
+### [Release](https://github.com/nodejs/release)
+
+The purpose of the release Working Group is to manage/execute
+the release and support process for all releases
+
+Responsibilities include:
+* Define the release process.
+* Define the content of releases.
+* Generate and create releases.
+* Test Releases.
+* Manage the LTS and Current branches including backporting changes to
+  these branches.
+* Define the policy for what gets backported to release streams.
+
