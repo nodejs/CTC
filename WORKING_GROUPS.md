@@ -136,7 +136,7 @@ Each language community maintains its own membership.
 * [nodejs-fi - Finnish (Suomi)](https://github.com/nodejs/nodejs-fi)
 * [nodejs-fr - French (Français)](https://github.com/nodejs/nodejs-fr)
 * [nodejs-he - Hebrew (עברית)](https://github.com/nodejs/nodejs-he)
-* [nodejs-hi - Hindi (फिजी बात)](https://github.com/nodejs/nodejs-hi)
+* [nodejs-hi - Hindi (हिंदी)](https://github.com/nodejs/nodejs-hi)
 * [nodejs-hu - Hungarian (Magyar)](https://github.com/nodejs/nodejs-hu)
 * [nodejs-id - Indonesian (Bahasa Indonesia)](https://github.com/nodejs/nodejs-id)
 * [nodejs-it - Italian (Italiano)](https://github.com/nodejs/nodejs-it)
