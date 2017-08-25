@@ -260,7 +260,7 @@ Responsibilities include:
 * Define the content of releases.
 * Generate and create releases.
 * Test Releases.
-* Manage the LTS and Current branches including backporting changes to
-  these branches.
+* Manage the Long Term Support and Current branches including
+  backporting changes to these branches.
 * Define the policy for what gets backported to release streams.
 
