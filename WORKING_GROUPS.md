@@ -252,8 +252,8 @@ Responsibilities include:
 
 ### [Release](https://github.com/nodejs/release)
 
-The purpose of the release Working Group is to manage/execute
-the release and support process for all releases
+The Release Working Group manages the release process for Node.js.
+Responsibilities include:
 
 Responsibilities include:
 * Define the release process.
