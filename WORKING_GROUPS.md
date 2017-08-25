@@ -253,7 +253,6 @@ Responsibilities include:
 ### [Release](https://github.com/nodejs/release)
 
 The Release Working Group manages the release process for Node.js.
-Responsibilities include:
 
 Responsibilities include:
 * Define the release process.
